@@ -1,4 +1,4 @@
-### Adding Plyr to Custom HTML5 Video with Additional Features
+## Adding Plyr to Custom HTML5 Video with Additional Features
 
 #### Introduction
 Plyr is a lightweight, accessible, and customizable media player for the web that supports HTML5 video, audio, and YouTube. This article will guide you through the process of integrating Plyr into your custom HTML5 video setup, including additional features like customizing the skin and adding a download button.
@@ -194,3 +194,10 @@ To customize the skin of Plyr, you can override the default CSS rules in `styles
 You have successfully integrated Plyr into your custom HTML5 video setup, customized the controls, added a download button, and customized the skin. Plyr provides a sleek, consistent, and feature-rich media player that enhances the user experience. For more advanced configurations and updates, refer to the official [Plyr documentation](https://github.com/sampotts/plyr).
 
 By following this guide, you can provide a highly customizable and user-friendly video playback experience on your website.
+
+---
+
+### Useful Links
+
+- https://codexdindia.blogspot.com/2021/05/plyrio-video-player-integration-skin-Customizing-and-Adding-Download-Button-to-plyr.html
+- https://dev.to/sh20raj/sample-videos-for-testing-4a30
