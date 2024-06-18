@@ -3,7 +3,7 @@
 Managing a subreddit can be a rewarding experience, but it can also come with administrative challenges. One common issue moderators face is the need to manually approve posts. If you're looking to streamline the process and automatically approve every post made by any user, this guide will walk you through the necessary steps using Reddit's AutoModerator tool.
 
 
-{% youtube https://www.youtube.com/watch?v=TuL8k15cCm0 %}
+" youtube https://www.youtube.com/watch?v=TuL8k15cCm0 "
 
 #### Step-by-Step Guide to Auto-Approve All Posts
 
